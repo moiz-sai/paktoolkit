@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moiz-sai.github.io/paktoolkit/sitemap.xml
